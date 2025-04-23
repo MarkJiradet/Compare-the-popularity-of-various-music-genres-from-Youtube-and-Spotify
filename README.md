@@ -23,5 +23,5 @@ This project explores and compares the popularity of different music genres acro
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MarkJiradet/music-genre-comparison.git
+   git clone https://github.com/MarkJiradet/Compare-the-popularity-of-various-music-genres-from-Youtube-and-Spotify.git
    cd music-genre-comparison
